@@ -48,3 +48,7 @@ It offers various features such as:-
 - [ ] Powerpoint features
     - [ ] Powerpoint to PDF
     - [ ] Powerpoint to Image
+
+### Contributing
+
+To contribute in this project you can reach to me at [Discord](https://discordapp.com/users/546260843902271515/) and we will discuss how you can contribute.
